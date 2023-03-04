@@ -1,3 +1,13 @@
+/*
+Se desea saber la temperatura media trimestral de cuatro paises pequeños. Para ello se tiene como dato las temperaturas medias mensuales de dichos paises.
+Se debe ingresar el nombre del país y seguidamente las tres temperaturas medias mensuales.
+Seleccionar las estructuras de datos adecuadas para el almacenamiento de los datos en memoria.
+a - Cargar por teclado los nombres de los países y las temperaturas medias mensuales.
+b - Imprimir los nombres de los países y las temperaturas medias mensuales de las mismas.
+c - Calcular la temperatura media trimestral de cada país.
+d - Imprimir los nombres de los países y las temperaturas medias trimestrales.
+e - Imprimir el nombre del país con la temperatura media trimestral mayor. */
+
 #include<iostream>
 using namespace std;
 
